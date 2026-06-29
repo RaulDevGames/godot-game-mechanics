@@ -10,7 +10,7 @@ Cada carpeta corresponde al proyecto final de un episodio de la serie de YouTube
 
 | Episodio | Mecánica | Proyecto | Video |
 |----------|----------|----------|-------|
-| 00 | Base Project | [📁 Abrir](00-Base-Project/) |  |
+| 00 | Base Project | [📁 Abrir](00-base-project/) | [▶️ Ver](https://youtu.be/m77xNiGy2yc) |
 | 01 | Coyote Time + Jump Buffering | [📁 Abrir](01-coyote-time-jump-buffering/) | [▶️ Ver](https://youtu.be/j50jyIQCDRM?si=_wcWejv3MvKs46dZ) |
 
 ---
